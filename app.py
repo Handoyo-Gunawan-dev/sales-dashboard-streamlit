@@ -44,3 +44,5 @@ if file:
 
 else:
     st.info("Silakan upload file terlebih dahulu")
+
+    
