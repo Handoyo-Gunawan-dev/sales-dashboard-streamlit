@@ -209,3 +209,6 @@ __marimo__/
 # Database lokal proyek ini
 *.db
 *.sqlite3
+# Data mentah
+*.csv
+*.xlsx
